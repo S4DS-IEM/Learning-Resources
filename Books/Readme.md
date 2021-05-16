@@ -8,6 +8,6 @@ The available books are :
 3. [Python CookBook](/Books/Python_Cookbook_3rd_Edition.pdf)
 4. [Dive into Deep Learning](/Books/d2l-en.pdf)
 5. [Reinforcement Learning](/Books/SuttonBartoIPRLBook2ndEd.pdf)
-6. [Hands-On Machine Learning with Sickit-Learn & TensorFlow](/Books/Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow-O’Reilly (2017).pdf)
-7. [Automate The Boring Stff With Python](/Books/Automate The Boring Stuff With Python.pdf)
+6. [Hands-On Machine Learning with Sickit-Learn & TensorFlow](/Books/Aurélien%20Géron%20-%20Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow-O’Reilly%20(2017).pdf)
+7. [Automate The Boring Stff With Python](/Books/Automate%20The%20Boring%20Stuff%20With%20Python.pdf)
 8. [Deep Learning with PyTorch](/Books/Deep-Learning-with-PyTorch.pdf)
