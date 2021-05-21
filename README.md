@@ -16,3 +16,4 @@ We encourage you to add more and more resources, inlcuding "open-sourced" books 
 
 ## Maintainers
 - [Deeptendu Santra](https://github.com/Dsantra92)
+- [Sayantan Dasgupta](https://github.com/Arka2001)
